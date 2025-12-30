@@ -2,6 +2,6 @@
 
 A responsive landing page clone of the 100xDevs platform (https://harkirat.classx.co.in/) built with HTML and CSS.
 
-Live Demo: https://sumit-2005-design.github.io/100xdevs-landing-page/
+Live Demo: https://s-k-developer.github.io/100xdevs-landing-page/
 
 This is my first project uploaded to GitHub.
